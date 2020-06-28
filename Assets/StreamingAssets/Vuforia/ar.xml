@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="unnamed" size="70.000000 29.941406" />
+    <ImageTarget name="Untitled-3" size="100.000000 100.000000" />
+    <ImageTarget name="arr" size="50.000000 34.049999" />
+    <ImageTarget name="game" size="681.000000 463.760986" />
+  </Tracking>
+</QCARConfig>
